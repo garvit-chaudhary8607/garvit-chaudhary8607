@@ -6,7 +6,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<![![An image of @garvitchaudhary8607's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/garvitchaudhary8607)](https://holopin.io/@garvitchaudhary8607)---
-garvit-chaudhary8607/garvit-chaudhary8607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
